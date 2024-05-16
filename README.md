@@ -1,6 +1,6 @@
 # Hi 👋
 
-## 🌱 I’m currently learning Tailwind and React
+## 🌱 Junior Frontend
 ## 📫 Contact: centowsky@gmail.com
 
 <!--
