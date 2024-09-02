@@ -1,7 +1,7 @@
 # Hi 👋
 
-## 🌱 Junior Frontend
-## 📫 Contact: centowsky@gmail.com
+## 🌱 Web Dev
+## 📫 Contact: centowskyweb@gmail.com
 
 <!--
 **Centowsky/Centowsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
