@@ -1,19 +1,29 @@
-# Hi 👋
+# Hello, I'm Centowsky 👋
 
-## 🌱 Web Dev
-## 📫 Contact: centowskyweb@gmail.com
+## 🌱 Junior Web Developer | Frontend & Fullstack Enthusiast
 
-<!--
-**Centowsky/Centowsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cześć! Jestem początkującym web developerem z pasją do tworzenia nowoczesnych, responsywnych i funkcjonalnych aplikacji internetowych. Pracuję głównie z **JavaScriptem, Reactem, Angular** . Obecnie uczę się Vue.js i stale rozwijam swoje umiejętności, zarówno frontendowe, jak i backendowe.
 
-Here are some ideas to get you started:
+💻 W swoich projektach skupiam się na pisaniu przejrzystego i skalowalnego kodu, z myślą o użytkowniku końcowym.
+🧩 Interesuje mnie także automatyzacja, API oraz integracja technologii z użytecznym designem.  
+🤝 Chętnie podejmę się współpracy przy ciekawych projektach.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Technologie, z którymi pracuję:
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, Angular, Tailwind, Bootstrap  
+- **Backend:** Java (Spring Boot), PHP (Symfony), Django (podstawy)  
+- **Inne:** Git, GitHub, REST API, WordPress, npm, Webpack  
+
+---
+
+## 📫 Contact: **kontakt@centowsky.pl**
+
+🌍 Projekty m.in.:  
+- [prokopisyn.pl](https://www.prokopisyn.pl/)  
+- [podnosniki-mysliborz.pl](https://podnosniki-mysliborz.pl/)  
+- Accessiwrite – edytor tekstu sterowany klawiaturą i gestami  
+
+---
+
+Dzięki za odwiedziny! 😊
